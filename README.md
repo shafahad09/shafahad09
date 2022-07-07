@@ -1,4 +1,4 @@
-[![MasterHead](https://github.com/shafahad09/shafahad09/blob/main/Profile.jpg)](https://shafahad09.io)
+[![MasterHead](https://github.com/shafahad09/shafahad09/blob/main/Profile2.jpg)](https://shafahad09.io)
 <h1 align="center">Hi 👋, I'm Shafahad Shaik</h1>
 <h3 align="center">A passionate Software Developer majoring AI & ML.</h3>
 
