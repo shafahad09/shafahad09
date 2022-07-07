@@ -1,3 +1,4 @@
+[![MasterHead](https://gfycat.com/gifs/tag/ml)](https://shafahad09.io)
 <h1 align="center">Hi 👋, I'm Shafahad Shaik</h1>
 <h3 align="center">A passionate Software Developer majoring AI & ML.</h3>
 
