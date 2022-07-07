@@ -1,10 +1,7 @@
+[![MasterHead](https://github.com/shafahad09/shafahad09/blob/main/Profile3.jpg)](https://shafahad09.io)
 <h1 align="center">Hi 👋, I'm Shafahad Shaik</h1>
 <h3 align="center">A passionate Software Developer majoring AI & ML.</h3>
-[![MasterHead](https://github.com/shafahad09/shafahad09/blob/main/Profile2.jpg)](https://shafahad09.io)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shafahad09&label=Profile%20views&color=0e75b6&style=flat" alt="shafahad09" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shafahad09" alt="shafahad09" /></a> </p>
 
 - 🔭 I’m currently working on an app called **"What I Feel"**
 
