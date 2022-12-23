@@ -13,6 +13,10 @@
 
 - ⚡ Fun fact **I love dancing and photography**
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafahad09&show_icons=true&locale=en&layout=compact" alt="shafahad09" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafahad09&" alt="shafahad09" /></p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/shafahad09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="shafahad09" height="30" width="40" /></a>
@@ -20,7 +24,3 @@
 <a href="https://instagram.com/shafahad09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="shafahad09" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/shafahad09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shafahad09" height="30" width="40" /></a>
 </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shafahad09&show_icons=true&locale=en&layout=compact" alt="shafahad09" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shafahad09&" alt="shafahad09" /></p>
