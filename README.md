@@ -3,7 +3,7 @@
 <h3 align="center">A passionate Software Developer majoring AI & ML.</h3>
 
 
-- 🔭 I’m currently working on an online automated expense tracking app
+- 🔭 I’m currently working on an **online automated expense tracking app**
 
 - 🌱 I’m currently learning **Flutter, Firebase**
 
